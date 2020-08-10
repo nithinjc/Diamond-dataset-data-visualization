@@ -15,3 +15,9 @@ Trip Duration (seconds) , Start Time and Date , End Time and Date , Start Statio
 1. 
 
 ### Summary of findings :
+
+
+# References
+
+- https://stackoverflow.com/questions/26942476/reading-csv-zipped-files-in-python : Work with zip files
+- pandas datetimeindex : https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DatetimeIndex.html
